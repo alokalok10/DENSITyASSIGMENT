@@ -1,0 +1,30 @@
+p {
+  /* margin-top: -20px;
+  margin-bottom: -20px; */
+  line-height: 25px;
+}
+
+h3 {
+  color: rgb(180, 180, 180);
+}
+#div1 {
+  margin-left: 80px;
+}
+#div2 {
+  margin-left: 300px;
+  border-left: 3px solid purple;
+  padding-left: 17px;
+}
+
+.hover:hover {
+  color: black !important;
+}
+
+.li {
+  padding-left: 50px;
+  list-style: circle;
+}
+
+.li:hover {
+  list-style-type: disc;
+}
